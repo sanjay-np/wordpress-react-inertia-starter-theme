@@ -1,0 +1,12 @@
+{
+  "name": "boxybird/wordpress-inertia-starter-theme",
+  "authors": [
+    {
+      "name": "Andrew Rhyand",
+      "email": "hello@andrewrhyand.com"
+    }
+  ],
+  "require": {
+    "boxybird/inertia-wordpress": "^0.5.6"
+  }
+}
